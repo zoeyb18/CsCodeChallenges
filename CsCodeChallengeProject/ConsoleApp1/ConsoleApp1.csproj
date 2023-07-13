@@ -5,6 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>Mutiples3sAnd5s.Challenge1_Multiple3sAnd5s</StartupObject>
   </PropertyGroup>
 
 </Project>
